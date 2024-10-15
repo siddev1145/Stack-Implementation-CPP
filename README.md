@@ -1,7 +1,7 @@
 # Stack-Implementation-CPP
 
 ## Aim 
-To use exception handling.
+To Implement Stack in CPP
 
 ## Software Used 
 VS Code
